@@ -1,5 +1,5 @@
 require 'sinatra'
 
-get '/' do
-    'hello Sinatra on shotgun'
+get('/') do
+    "hello world"
 end
